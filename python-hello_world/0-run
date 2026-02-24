@@ -1,0 +1,4 @@
+#!/bin/bash
+# 0-run: Runs a Python script stored in $PYFILE
+
+python3 "$PYFILE"
